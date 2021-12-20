@@ -1,0 +1,17 @@
+.container {
+    min-width: 350px;
+    max-width: 1220px;
+    width: 100%;
+  }
+  
+  .columns {
+    width: 100%;
+  }
+  
+  .card {
+    margin: 20px auto 0;
+  }
+  
+  .card:hover {
+    opacity: 0.8;
+  }
